@@ -1,0 +1,14 @@
+# ✅ Flask dependencies
+Flask
+Flask-Cors
+Flask-PyMongo
+gunicorn
+
+# ✅ AI Model Dependencies (distilgpt2)
+torch
+transformers
+accelerate
+
+# ✅ NLP (Resume Analysis)
+pydantic
+spacy
